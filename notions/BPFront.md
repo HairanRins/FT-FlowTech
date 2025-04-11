@@ -1,6 +1,6 @@
 # Les bonnes pratiques en développement Frontend
 
-## Pourquoi ?
+## Pourquoi ?
 
 Pour l'amélioration de la **lisibilité**, la **maintenabilité**, la **performance** et l’**expérience utilisateur**
 
