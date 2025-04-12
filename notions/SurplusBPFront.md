@@ -129,4 +129,6 @@
 - **Cours en ligne** : freeCodeCamp, Udemy, Coursera.
 - **Communautés** : Stack Overflow, Reddit, Discord.
 
+- **lien de mon intervention** : `https://docs.google.com/presentation/d/19Qx3D0FncIN4sHsEL1Pc45JmvidEpEwbSYRmcGaZgqY/edit?usp=sharing`
+
 ---
